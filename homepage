@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planes and Weather</title>
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="Assignment2Final.styles.css" asp-append-version="true" />
+</head>
+<body>
+
+    <header>
+        <h1>Aviation and weather</h1>
+    </header>
+
+    <main>
+        <article>
+            <h2>About Us</h2>
+            <p>
+                Welcome to our website dedicated to showing how weather can effect aviation of different types .
+        </article>
+
+        <article>
+            <h2>Wind and commercial aviation</h2>
+            <p>
+                Learn about the impact of weather on aviation. Weather conditions play a crucial role in the safety and efficiency of air travel.
+                Discovering how much this can effect aviation is looking at the jet stream winds
+            </p>
+            <p>
+                Jet Stream winds refer to the dominant and consistent directional winds that commonly occur in a particular region over an extended period. 
+                These winds are influenced by a combination of factors such as the Earth's rotation, the distribution of land and water, and the uneven heating of the Earth's surface by the sun. 
+                Understanding Jet streams is crucial in various fields, including meteorology, aviation, and climate science. But here we look at avaiation
+
+            </p>
+            These winds in aviation are so powerful that airlines will plan routes based off of these patterns in order to speed up routes, or avoid slower routes.
+            <p>
+                Click
+                <a href="Tablepage.html">
+                    <em>here</em>
+                </a>
+                to view the chart of the routes most effected by these winds.
+            </p>
+        </article>
+
+        <article>
+            <h2>Weather and military aviation</h2>
+            <p>
+                This location is reserved for information how weather effects military aviation
+            </p>
+        </article>
+    </main>
+
+    <footer>
+        <p>All rights are reserved?</p>
+    </footer>
+    <script src="lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
