@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Wind Data</title>
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="Assignment2Final.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <h1>Commercial Routes effected by jet streams</h1>
+    </header>
+    <main>
+
+        <table class="table-dark table">
+            <tr>
+
+                <th>Route</th>
+                <th>East traveling time</th>
+                <th>West traveling Time</th>
+                <th>Difference</th>
+
+            </tr>
+
+            <tr>
+
+                <td>NY to London</td>
+                <td>7 hours</td>
+                <td>8 Hours 20 mins</td>
+                <td>1 Hour 20 Min</td>
+
+            </tr>
+
+            <tr>
+
+                <td>NY - LA</td>
+                <td>5 hours 20 mins</td>
+                <td>6 Hours 20 mins</td>
+                <td>1 Hour </td>
+
+            </tr>
+
+            <tr>
+
+                <td>Shanghai - LA</td>
+                <td>11 hours 45 mins</td>
+                <td>14 Hours 15 mins</td>
+                <td>1 Hour </td>
+
+            </tr>
+
+            <tr>
+
+                <td>Shanghai - London</td>
+                <td>11 hours 50 mins</td>
+                <td>13 Hours 55 mins</td>
+                <td>1 Hour </td>
+
+            </tr>
+
+</main>
+
+    <footer>
+        <p>
+            Click
+            <a href="Tablepage.html">
+                <em>here</em>
+            </a>
+            to return to home page.
+    </footer>
+
+    <script src="lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
