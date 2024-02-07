@@ -1,0 +1,58 @@
+@import url('site.css');
+html {
+  font-size: 14px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #002855;
+    color: white;
+}
+
+main {
+    margin-top: 20px;
+}
+
+article {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #002855;
+}
+
+p {
+    line-height: 1.5;
+}
+table {
+}
+footer {
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px;
+    background-color: #002855;
+    color: white;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
